@@ -1,2 +1,2 @@
 # CourseDataScience
-Python &amp; VBA for Data Science - Course Syllabus
+(PDF) Python &amp; VBA for Data Science - Course Syllabus
